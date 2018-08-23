@@ -2,7 +2,7 @@
 
 This little project was created during the last week of the orientation course at [Digital Career Institute](https://digitalcareerinstitute.org/). It is a pure HTML and CSS based animation of my CV. I even managed to make this slighly responsive. 
 
-<small>*proud - just a little bit ;)*</small>.
+**Time for realization: 3 days**
 
 Feel free to use the sourcecode and stylesheet and adapt it for your own purposes. 
 
